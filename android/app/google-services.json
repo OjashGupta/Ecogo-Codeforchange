@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "750922946637",
+    "project_id": "greentick-d008b",
+    "storage_bucket": "greentick-d008b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750922946637:android:3150f83aabacfb5fca6404",
+        "android_client_info": {
+          "package_name": "com.googlesol.greentick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750922946637-e5r9fjhbjuhjjnvbkg1q4m74pcuih0t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvLtj8RgM4sy9lQX6f-Y8x43LqslDHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750922946637-e5r9fjhbjuhjjnvbkg1q4m74pcuih0t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750922946637:android:b80696f89c8e82b3ca6404",
+        "android_client_info": {
+          "package_name": "com.hackathon.greentick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750922946637-e5r9fjhbjuhjjnvbkg1q4m74pcuih0t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvLtj8RgM4sy9lQX6f-Y8x43LqslDHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750922946637-e5r9fjhbjuhjjnvbkg1q4m74pcuih0t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

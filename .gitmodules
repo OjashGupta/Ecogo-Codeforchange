@@ -1,0 +1,3 @@
+[submodule "web_scrap"]
+	path = web_scrap
+	url = https://github.com/S-JZ/web_scrap.git
